@@ -5,7 +5,6 @@ Designed and implemented a real estate database using MS Access and SQL to enabl
 ## 🚀 Project Overview
 - Created relational schema with 15+ normalized tables and ER diagrams.
 - Developed optimized SQL queries to improve data retrieval by 30%.
-- Visualized key real estate metrics using Tableau dashboards.
 
 ## 🛠️ Tools and Technologies
 - MS Access
